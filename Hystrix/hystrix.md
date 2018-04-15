@@ -1,0 +1,1 @@
+目前完成bff_service中hystrix的添加；其余core_services需使用sql。
